@@ -1,6 +1,6 @@
 # nativescript-gplaces
 
-Read Google Login Documentation at https://developers.google.com/places/android-api/?hl=pt-br
+Read Google Places API Documentation at https://developers.google.com/places/android-api/?hl=pt-br
 
 ## Api Configuration
 
